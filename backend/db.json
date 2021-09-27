@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Bia",
+      "email": "Bia2@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "eric",
+      "email": "eric@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Lord Voldemort ",
+      "email": "vol@gmail.com",
+      "id": 6
+    }
+  ]
+}
